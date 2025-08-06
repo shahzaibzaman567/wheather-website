@@ -42,14 +42,14 @@
 
 .search-btn {
     position: absolute;
-    background-image: url('./pic/HIIL-PURPLE-SKY.jpg');
     background-size: cover;
     width: 30px;
     height: 30px;
     right: 6px;
-    top: 21%;
+    top: 14%;
     border: transparent;
     border-radius: 100%;
+    background: transparent;
     cursor: pointer;
 }
 
@@ -64,9 +64,9 @@ h1{
 padding-left: 10px;
 }
 /* Section  of   wheather   data */
-.wheather-info{
+/* .wheather-info{ */
 
-}
+/* } */
 
 /* Location img and text     */
 .location{
